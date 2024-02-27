@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1 {font-size: 350%;
+color: rgb(197, 3, 123);
+text-align: center;
+}
+h2 {font-size: 200%;}
+h3 {font-size: 200%;}
+h1 {border-style: solid;
+    border-color: rgb(230, 107, 193);
+border-width: 4px;}
+h1 {margin-left: 0%;}
+h1 {padding-left: 6%;}
+.parte1 {border-style: solid;
+    border-color: rgb(231, 165, 228);
+border-width: 4px;}
+.parte1 {background-color: rgb(189, 216, 241);}
